@@ -13,7 +13,7 @@ title: "Canestrella"
 - [A chi è rivolto](#a-chi-è-rivolto)
   - [Tecnologia](#tecnologia)
   - [Sport di montagna](#sport-di-montagna)
-- [TO-DO](#to-do)
+- [Cosa c'è da fare](#cosa-cè-da-fare)
 
 <br>
 
@@ -75,13 +75,19 @@ La prima attività di segnalazione potrebbe essere quella che riguarda il [punto
 
 ---
 
-## TO-DO
+## Cosa c'è da fare
 
 Le attività da fare nell'immediato riguardano lo [statuto](statuto) perchè per costituire l'associazione va depositato.
 
+
 - [ ] Trovare un nome (anche se _Canestrella_ non mi dispiace tanto... 😅)
+
+- [ ] Trovare una sede
+
 - [ ] Decidere su quota associativa e eventuale ricorrenza
+
 - [ ] Valutare se aggiungere altre attività all' art. 5 dello statuto tra quelle concesse dalla [legge](https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.versione=3&art.idGruppo=2&art.flagTipoArticolo=0&art.codiceRedazionale=17G00128&art.idArticolo=5&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2017-08-02&art.progressivo=0#art) ([qui in versione semplificata](listaAttivita))
+
 - [ ] Decidere se aggiungere nello statuto paragrafi che sottolineano cose che sono già previste dalla legge (D. Lgs 117/2017) ma che potrebbe essere meglio specificare:
   - [ ] l'associazione può, in via secondaria e strumentale, somministrare cibi e bevande
   - [ ] articolo che specifica che i soci possono essere retribuiti per prestazioni professionali
