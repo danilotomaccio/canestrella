@@ -8,13 +8,12 @@ title: "Canestrella"
 <details>
 <summary>Indice</summary>
 
-- [Canestrella](#canestrella)
-  - [Il problema](#il-problema)
-  - [La proposta](#la-proposta)
-  - [A chi è rivolto](#a-chi-è-rivolto)
-    - [Tecnologia](#tecnologia)
-    - [Sport di montagna](#sport-di-montagna)
-  - [TO-DO](#to-do)
+- [Il problema](#il-problema)
+- [La proposta](#la-proposta)
+- [A chi è rivolto](#a-chi-è-rivolto)
+  - [Tecnologia](#tecnologia)
+  - [Sport di montagna](#sport-di-montagna)
+- [TO-DO](#to-do)
 
 <br>
 
