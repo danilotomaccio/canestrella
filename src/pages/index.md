@@ -28,7 +28,7 @@ A Tricarico (così come in tutti i paesi simili) mancano, tra le altre cose:
 
 ## La proposta
 
-L'idea è quella di creare un'associazione che possa soddisfare entrambi i requisiti. Per farlo si può creare un'associazione che sarà formalmente e legalmente l'unica reale associazione (che provvisoriamente chiamiamo _Canestrella APS_) al cui interno verranno create delle "sotto-associazioni" in caso di particolare interesse in una certa tematica. Queste sotto-associazioni non avranno alcuna valenza legale e per qualsiasi necessità formale utilizzeranno l'associazione principale ma, internamente, avranno un loro statuto, una loro struttura e canali di comunicazione separati (pagina Facebook, instagram, ecc...). Ho fatto una bozza di statuto nel quale è presente anche la [regolamentazione che riguarda le sotto-associazioni](canestrella/statuto#art-5--finalità-e-attività).
+L'idea è quella di creare un'associazione che possa soddisfare entrambi i requisiti. Per farlo si può creare un'associazione che sarà formalmente e legalmente l'unica reale associazione (che provvisoriamente chiamiamo _Canestrella APS_) al cui interno verranno create delle "sotto-associazioni" in caso di particolare interesse in una certa tematica. Queste sotto-associazioni non avranno alcuna valenza legale e per qualsiasi necessità formale utilizzeranno l'associazione principale ma, internamente, avranno un loro statuto, una loro struttura e canali di comunicazione separati (pagina Facebook, instagram, ecc...). Ho fatto una bozza di statuto nella quale è presente anche la [regolamentazione che riguarda le sotto-associazioni](statuto#art-5--finalità-e-attività).
 
 <br>
 
@@ -58,11 +58,11 @@ La prima attività di segnalazione potrebbe essere quella che riguarda il [punto
 
 ## TO-DO
 
-Le attività da fare nell'immediato riguardano lo [statuto](canestrella/statuto) perchè per costituire l'associazione va depositato.  
+Le attività da fare nell'immediato riguardano lo [statuto](statuto) perchè per costituire l'associazione va depositato.  
 
 - [ ] Trovare un nome (anche se _Canestrella_ non mi dispiace tanto... 😅)
 - [ ] Decidere su quota associativa e eventuale ricorrenza
-- [ ] Valutare se aggiungere altre attività all' art. 5 dello statuto tra quelle concesse dalla [legge](https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.versione=3&art.idGruppo=2&art.flagTipoArticolo=0&art.codiceRedazionale=17G00128&art.idArticolo=5&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2017-08-02&art.progressivo=0#art) ([qui in versione semplificata](canestrella/listaAttivita))
+- [ ] Valutare se aggiungere altre attività all' art. 5 dello statuto tra quelle concesse dalla [legge](https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.versione=3&art.idGruppo=2&art.flagTipoArticolo=0&art.codiceRedazionale=17G00128&art.idArticolo=5&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.dataPubblicazioneGazzetta=2017-08-02&art.progressivo=0#art) ([qui in versione semplificata](listaAttivita))
 - [ ] Decidere se aggiungere nello statuto paragrafi che sottolineano cose che sono già previste dalla legge (D. Lgs 117/2017) ma che potrebbe essere meglio specificare:
   - [ ] l'associazione può, in via secondaria e strumentale, somministrare cibi e bevande
   - [ ] articolo che specifica che i soci possono essere retribuiti per prestazioni professionali
